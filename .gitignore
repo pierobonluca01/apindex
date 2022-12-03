@@ -1,3 +1,11 @@
 .idea/
 build/
 test_data/
+CMakeCache.txt
+CMakeFiles/*
+CPackConfig.cmake
+CPackSourceConfig.cmake
+Makefile
+./apindex
+cmake_install.cmake
+install_manifest.txt

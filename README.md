@@ -40,8 +40,8 @@ This renders __Index of /__.
 ### How do I install it?
 
 ```
-tar -xf apindex-x.xx.tar.gz
-cp apindex-x.xx
+git clone https://github.com/paperbenni/apindex
+cd apindex
 cmake . -DCMAKE_INSTALL_PREFIX=/usr
 sudo make install
 ```
